@@ -1,0 +1,5 @@
+{
+    "latest_version": "4.11",
+    "apk_url": "https://dashboard-ibs3p2gqn-stylz03s-projects.vercel.app/PlaymoDNS_v4.11.apk",
+    "release_notes": "Fixes Update Checker by moving source to public dashboard.\n\nNow checks updates reliably without 404 errors."
+}
