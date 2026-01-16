@@ -1,5 +1,5 @@
 {
-    "latest_version": "4.12",
-    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.12.apk",
-    "release_notes": "Fixes Update Checker 401 Error.\n\nNow uses a dedicated public repository for updates."
+    "latest_version": "4.13",
+    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.13.apk",
+    "release_notes": "UI Polish Update:\n\n- **New Look**: Circular Activate Button.\n- **Fun Animations**: Pulsing Halo (Idle) and Rotating Ring (Connecting).\n- **Visual Feedback**: Button turns Solid Green when connected."
 }
