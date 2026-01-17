@@ -1,5 +1,5 @@
 {
-    "latest_version": "4.13",
-    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.13.apk",
-    "release_notes": "UI Polish Update:\n\n- **New Look**: Circular Activate Button.\n- **Fun Animations**: Pulsing Halo (Idle) and Rotating Ring (Connecting).\n- **Visual Feedback**: Button turns Solid Green when connected."
+    "latest_version": "4.14",
+    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.14.apk",
+    "release_notes": "UI Refinement Update:\n\n- **TV Optimized**: Smaller, tighter Logo Card.\n- **Mobile Optimized**: Start Button and Timer now fit perfectly on smaller screens.\n- **General**: Reduced padding and margins for a cleaner look."
 }
