@@ -1,5 +1,5 @@
 {
-    "latest_version": "4.14",
-    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.14.apk",
-    "release_notes": "UI Refinement Update:\n\n- **TV Optimized**: Smaller, tighter Logo Card.\n- **Mobile Optimized**: Start Button and Timer now fit perfectly on smaller screens.\n- **General**: Reduced padding and margins for a cleaner look."
+    "latest_version": "4.26",
+    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.26.apk",
+    "release_notes": "Remote Support & Stability Update:\n\n- **Remote Support**: Fixed WebSocket connection drops and multi-device support.\n- **Auto-Reconnect**: Devices now reconnect automatically with exponential backoff.\n- **Dashboard**: Added auto-refresh (10s), device Kill/Unblock controls.\n- **Port Range**: Expanded to support up to 1000 simultaneous devices.\n- **Crash Fix**: Resolved executor crash when toggling remote access rapidly.\n- **Ping/Pong**: Proper keepalive so connections stay alive indefinitely."
 }
