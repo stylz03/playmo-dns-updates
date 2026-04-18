@@ -1,5 +1,5 @@
 {
-    "latest_version": "4.26",
-    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.26.apk",
-    "release_notes": "Remote Support & Stability Update:\n\n- **Remote Support**: Fixed WebSocket connection drops and multi-device support.\n- **Auto-Reconnect**: Devices now reconnect automatically with exponential backoff.\n- **Dashboard**: Added auto-refresh (10s), device Kill/Unblock controls.\n- **Port Range**: Expanded to support up to 1000 simultaneous devices.\n- **Crash Fix**: Resolved executor crash when toggling remote access rapidly.\n- **Ping/Pong**: Proper keepalive so connections stay alive indefinitely."
+    "latest_version": "4.27",
+    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.27.apk",
+    "release_notes": "Infrastructure Failover Update:\n\n- **High Availability**: Added dual-instance failover between primary AWS and secondary GCP servers.\n- **Resiliency**: Client app will automatically switch backend connections if one is unreachable.\n- **NOC Updates**: Replaced all hardcoded legacy IPs with dynamic failover support."
 }
