@@ -1,5 +1,5 @@
 {
-    "latest_version": "4.27",
-    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.27.apk",
-    "release_notes": "Infrastructure Failover Update:\n\n- **High Availability**: Added dual-instance failover between primary AWS and secondary GCP servers.\n- **Resiliency**: Client app will automatically switch backend connections if one is unreachable.\n- **NOC Updates**: Replaced all hardcoded legacy IPs with dynamic failover support."
+    "latest_version": "4.28",
+    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.28.apk",
+    "release_notes": "Remote Support Update:\n\n- **Fix**: Re-structured ADB signaling to correctly show Android USB Debugging authorization prompt on connect.\n- **Stability**: Refactored background service connections."
 }
