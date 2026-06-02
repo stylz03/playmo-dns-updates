@@ -1,5 +1,5 @@
 {
-    "latest_version": "4.29",
-    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.29.apk",
-    "release_notes": "Remote Support Update (FireOS Fix):\n\n- **Fix**: Resolved concurrency issue in ADB socket connection for Firesticks.\n- **Stability**: Ensured proper bridge establishment for ADB remote assistance on performance-constrained devices."
+    "latest_version": "4.31",
+    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.31.apk",
+    "release_notes": "Legacy DNS stability update:\n\n- **Fix**: Restored WorkManager boot retry scheduling when Android does not initialize it early enough.\n- **Stability**: Verified boot auto-reconnect, foreground VPN notification, DNS resolution, and reconnect logs on the test device.\n- **Support**: Updated Playmo support contact details in the app."
 }
