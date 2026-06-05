@@ -1,5 +1,5 @@
 {
-    "latest_version": "4.31",
-    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.31.apk",
-    "release_notes": "Legacy DNS stability update:\n\n- **Fix**: Restored WorkManager boot retry scheduling when Android does not initialize it early enough.\n- **Stability**: Verified boot auto-reconnect, foreground VPN notification, DNS resolution, and reconnect logs on the test device.\n- **Support**: Updated Playmo support contact details in the app."
+    "latest_version": "4.32",
+    "apk_url": "https://github.com/stylz03/playmo-dns-updates/raw/master/PlaymoDNS_v4.32.apk",
+    "release_notes": "Legacy DNS updater stability update:\n\n- **Fix**: Prevented a crash when tapping Update Now on Android 13+ devices.\n- **Stability**: Added safer download startup, invalid-link handling, and installer handoff error handling.\n- **Support**: Keeps the legacy DNS update lane on the GitHub release folder."
 }
